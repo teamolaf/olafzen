@@ -1,7 +1,9 @@
 # Olaf Zen
 
-Your own wallpaper on every screen: one picture across all your monitors, or one per
-display. It also works on a Mac where the company locks the wallpaper.
+The wallpaper app that doesn't change your wallpaper. Olaf Zen lays your pictures over
+the desktop: one picture across all your monitors, or one per display, with a scene for
+every situation. macOS stays exactly as it was, and it also works on a Mac where the
+company locks the wallpaper.
 
 **Download and install: [olafzen.com](https://olafzen.com)**
 
